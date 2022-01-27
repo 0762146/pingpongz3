@@ -1,0 +1,39 @@
+.heading{
+width:100%;
+text-align :center;
+box-shadow:5px 5px 18px black;
+}
+.heading h3{
+display:inline;
+box-shadow:5px 5px 18px black;
+border: solid white;
+border-width: 1px;
+}
+.heading button{
+float:right;
+border:1px solid white;
+box-shadow:5px 5px 18px black;
+}
+.bigImage{
+    width:100%;
+    box-shadow:5px 5px 18px black;
+}
+.restart{
+    box-shadow:5px 5px 18px black;
+}
+#Play-Game{
+    box-shadow:5px 5px 18px black;
+}#game-load{
+    font-size:25px;
+}
+h4{
+    background-color:crimson;
+    line-height: 3;
+    margin:0px;
+}
+.modal-dialog{
+    width:90%;
+}
+canvas{
+    background-color: white;
+}
